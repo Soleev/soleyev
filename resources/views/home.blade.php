@@ -23,7 +23,7 @@
     <!-- Блок с фото и информацией о себе -->
     <div class="row">
         <div class="col-md-4 text-center">
-            <img src="img/IMG_9667.jpg" alt="Фото" class="img-fluid rounded-circle">
+            <img src="img/IMG_9667_11zon.webp" alt="Фото" class="img-fluid rounded-circle">
         </div>
         <div class="col-md-8">
             <h1>Привет, я Шохрух Солеев</h1>
