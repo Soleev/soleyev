@@ -21,6 +21,7 @@
             j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
             f.parentNode.insertBefore(j, f);
         })(window, document, 'script', 'dataLayer', 'GTM-T69HGSJ');</script>
+    <script src="https://analytics.ahrefs.com/analytics.js" data-key="4Ky4he8qSci7764dFE2xHA" async></script>
     <style>
         body {
             font-family: 'Arial', sans-serif;

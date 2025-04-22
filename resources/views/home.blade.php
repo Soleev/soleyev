@@ -36,6 +36,7 @@
             j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
             f.parentNode.insertBefore(j, f);
         })(window, document, 'script', 'dataLayer', 'GTM-T69HGSJ');</script>
+    <script src="https://analytics.ahrefs.com/analytics.js" data-key="4Ky4he8qSci7764dFE2xHA" async></script>
     <!-- Стили -->
     <style>
         body {
@@ -79,6 +80,7 @@
     <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T69HGSJ" height="0" width="0"
             style="display:none;visibility:hidden"></iframe>
 </noscript>
+
 
 <!-- Навигация -->
 <nav class="navbar navbar-expand-lg navbar-light bg-light sticky-top">
