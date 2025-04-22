@@ -12,7 +12,7 @@
     <meta property="og:description"
           content="5 простых шагов для вывода сайта в топ Google. Советы по SEO от Шохруха Солеева.">
     <meta property="og:image" content="../img/seo-google.jpg">
-    <meta property="og:url" content="https://soleyev.uz/blog/seo-google">
+    <meta property="og:url" content="https://soleyev.uz/seo-google">
     <meta property="og:type" content="article">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
           integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">

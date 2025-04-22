@@ -12,7 +12,7 @@
     <meta property="og:description"
           content="Советы по оптимизации серверов 1С для бизнеса. Узнайте, как ускорить работу сервера.">
     <meta property="og:image" content="../img/1c-server.jpg">
-    <meta property="og:url" content="https://soleyev.uz/blog/1c-server">
+    <meta property="og:url" content="https://soleyev.uz/1c-server">
     <meta property="og:type" content="article">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
           integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
