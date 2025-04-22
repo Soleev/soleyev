@@ -8,6 +8,7 @@
           content="Шохрух Солеев — эксперт по SEO, разработке сайтов и настройке серверов в Ташкенте. Продвижение на YouTube, создание сайтов, настройка 1С и MikroTik. Звоните: +998 97 137 03 04">
     <meta name="keywords"
           content="SEO Ташкент, создание сайтов Узбекистан, настройка серверов 1С, продвижение YouTube, MikroTik Ташкент">
+    <link rel="canonical" href="https://soleyev.uz/" />
     <!-- Open Graph для соцсетей -->
     <meta property="og:title" content="Шохрух Солеев — SEO, Разработка сайтов, Настройка серверов">
     <meta property="og:description"

@@ -7,11 +7,12 @@
     <meta name="description"
           content="Узнайте, как вывести сайт в топ Google с помощью 5 простых шагов. Советы по SEO для малого бизнеса от Шохруха Солеева, эксперта из Ташкента.">
     <meta name="keywords" content="SEO Ташкент, вывести сайт в топ Google, SEO для малого бизнеса">
+    <link rel="canonical" href="https://soleyev.uz/seo-google" />
     <meta property="og:title" content="Как вывести сайт в топ Google: 5 шагов | Шохрух Солеев">
     <meta property="og:description"
           content="5 простых шагов для вывода сайта в топ Google. Советы по SEO от Шохруха Солеева.">
     <meta property="og:image" content="../img/seo-google.jpg">
-    <meta property="og:url" content="https://soleyev.uz/blog/seo-google.html">
+    <meta property="og:url" content="https://soleyev.uz/blog/seo-google">
     <meta property="og:type" content="article">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
           integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">

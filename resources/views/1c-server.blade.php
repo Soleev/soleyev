@@ -7,11 +7,12 @@
     <meta name="description"
           content="Узнайте, почему сервер 1С тормозит, и как это исправить. Советы по оптимизации серверов для бизнеса от Шохруха Солеева, эксперта из Ташкента.">
     <meta name="keywords" content="сервер 1С, оптимизация серверов, настройка серверов Ташкент">
+    <link rel="canonical" href="https://soleyev.uz/1c-server" />
     <meta property="og:title" content="Почему сервер 1С тормозит и как это исправить | Шохрух Солеев">
     <meta property="og:description"
           content="Советы по оптимизации серверов 1С для бизнеса. Узнайте, как ускорить работу сервера.">
     <meta property="og:image" content="../img/1c-server.jpg">
-    <meta property="og:url" content="https://soleyev.uz/blog/1c-server.html">
+    <meta property="og:url" content="https://soleyev.uz/blog/1c-server">
     <meta property="og:type" content="article">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
           integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
